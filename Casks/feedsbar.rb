@@ -1,6 +1,6 @@
 cask "feedsbar" do
-  version "1.2.7"
-  sha256 "cbae98b4686ac58a3679172a45da9e346b427feb87ed305cf7ba7d03540367f6"
+  version "1.2.8"
+  sha256 "72d8bb576b5d203c6fb706dd715ca4ecc8326b231e74c2d918e11cf0fa3b4979"
 
   url "https://feeds.bar/releases/FeedsBar-#{version}.dmg"
   name "FeedsBar"
